@@ -20,7 +20,9 @@ Welcome to "C# Best Coding Practices" GitHub repository!
 
 The repo is structured into 10 separate directories, starting from Part-01 to Part-10. Each day's directory contains tasks, exercises, or learning resources regarding best practices related to C# development:
 
-#### [Part-01](./Part-01):
+#### [Part-01](./Part-01)
+
+#### [Part-02](./Part-02)
 
 
 
